@@ -1,0 +1,3 @@
+0 Non Fire
+1 Smoke
+2 Forest fire
